@@ -13,7 +13,7 @@ Analisis sentiment dilakukan untuk mengklasifikasikan ulasan-ulasan dari user ke
 Hasil analisis menunjukan dimana sebanyak 1893 data (63,1%) bernilai negatif, 831 data (27,7%) bernilai positif dan 275 data (9,2%) bernilai netral. Penilaian berdasarkan dari rating yang diberikan oleh pengguna (user) aplikasi transportasi online yang terdiri dari aplikasi Gojek, Grab dan Maxim. Data yang ada paling banyak muncul pada bulan dimana data di crawling. Hasil proses evalution (pengujian) berbeda setiap masing-masing metode. Hal yang sama terjadi pada pengukuran accurary dari masing-masing metode dimana metode Random Forest dan SVM memiliki presentase akurasi yang paling tinggi untuk data yang di uji dengan tingkat akurasi 0,91% dan 0,92% sedangkan untuk metode niave bayes, decision tree, dan logistic regression memiliki akurasi cukup tinggi dengan presentasi masing-masing sebesar 0,79%, 0,80%, dan 0,83%.
 
 Untuk penjelasan lebih spesifik silahkan baca dokumen skripsi berikut : 
-jalankan terlebih dahulu mySQL anda :
+
 ```bash
 https://drive.google.com/file/d/1fw_S2F929NFPgTkA3qu_j4JzolDtt_g7/view?usp=sharing
 ```
